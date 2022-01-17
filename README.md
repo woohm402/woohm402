@@ -2,16 +2,22 @@
 
 I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer.
 
+<br/><br/>
+
 ## ❔ About me
 
 - Studied in SNU, CSE (2019~)
 - Working as frontend developer since 2021
 - President of [wafflestudio](https://wafflestudio.com) (2021~2022)
 
+<br/><br/>
+
 ## :eyes: What I had done
 - Writing In Progress... My repositories are soooooooo messy 🙈
 - Currently interested in:
   - `SwiftUI`, react `fiber`, `react 18`
+
+<br/><br/>
 
 ## 💻 Develop
 
@@ -47,11 +53,15 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=TypeScript&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-badge&logo=Sass&logoColor=white)
 
+<br/><br/>
+
 ## 🤝 Work with me!
 - Blog: [velog @woohm402](https://velog.io/@woohm402)
 - Contact: [woohm404@gmail.com](mailto://woohm404@gmail.com)
 - More info on my [homepage](https://profile.woohm404.com)
   - Work in progress...
+
+<br/><br/>
 
 ## 📊 stats
 
