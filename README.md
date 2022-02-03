@@ -31,7 +31,6 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ### Tech stacks
 
 ![react](https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white)
-![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-badge&logo=Svelte&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-badge&logo=Next.js&logoColor=white)
 
 ### Code & Service management
@@ -47,7 +46,7 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ![github](https://img.shields.io/badge/Github-181717?style=flat-badge&logo=Github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=flat-badge&logo=Gitlab&logoColor=white)
 
-### Favorite & Major ❤️
+### Favorite ❤️
 
 ![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-badge&logo=Next.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=TypeScript&logoColor=white)
