@@ -13,7 +13,19 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 <br/><br/>
 
 ## :eyes: What I had done
-- Writing In Progress... My repositories are soooooooo messy 🙈
+- Activities
+  - 2022.02 ~ current
+    - Project: Waffle.com
+    - [web (svelte)](https://github.com/wafflestudio/wafflestudio.com-v3)
+  - 2021.08 ~ 2021.11
+    - Seminar: frontend with react
+    - [seminar leader](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
+  - 2021.01 ~ 2021.06
+    - Project: Gatgu
+    - [client (react native)](https://github.com/wafflestudio/gatgu-client)
+  - 2020.11 ~ 2020.12 
+    - Clone coding: Trello
+    - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
 - Currently interested in:
   - `SwiftUI`, react `fiber`, `react 18`
 
