@@ -7,7 +7,7 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ## ❔ About me
 
 - Studied in SNU, CSE (2019~)
-- Working as frontend developer since 2021.3
+- Working as frontend developer since 2021.03
 - President of [wafflestudio](https://wafflestudio.com) (2021~2022)
 
 <br/><br/>
