@@ -27,7 +27,7 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
     - Clone coding: Trello
     - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
 - Currently interested in:
-  - `SwiftUI`, react `fiber`, `react 18`
+  - react `fiber`, `react 18`, `react-query`, `svelte`, `yarn berry`
 
 <br/><br/>
 
