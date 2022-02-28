@@ -35,6 +35,7 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
   - [My NextJS Template](https://github.com/woohm402/woohm402-nextjs-template)
 - Currently interested in:
   - react `fiber`, `react 18`, `react-query`, `svelte`, `yarn berry`
+  - open-source contributing
 
 <br/><br/>
 
