@@ -10,7 +10,7 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 - Working as frontend developer since 2021.03
 - President of [wafflestudio](https://wafflestudio.com) (2021~2022)
    - [homepage](https://wafflestudio.com)
-   - [github](https://github.com/wafflestudio)
+   - [github org](https://github.com/wafflestudio)
 
 <br/><br/>
 
@@ -28,6 +28,8 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
   - 2020.11 ~ 2020.12 
     - Clone coding: Trello
     - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
+- See my code!
+  - [My NextJS Template](https://github.com/woohm402/woohm402-nextjs-template)
 - Currently interested in:
   - react `fiber`, `react 18`, `react-query`, `svelte`, `yarn berry`
 
