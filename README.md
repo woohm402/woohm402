@@ -67,6 +67,7 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-badge&logo=Next.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=TypeScript&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-badge&logo=Sass&logoColor=white)
+![react-query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-badge&logo=React-Query&logoColor=white)
 
 <br/><br/>
 
