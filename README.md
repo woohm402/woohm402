@@ -38,6 +38,15 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 
 <br/><br/>
 
+## 🤝 Work with me!
+- Blog: [velog @woohm402](https://velog.io/@woohm402)
+   - [React 가 virtual DOM 을 이용하는 이유](https://velog.io/@woohm402/virtual-dom-and-react)
+   - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
+   - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
+- Contact: [woohm404@gmail.com](mailto://woohm404@gmail.com)
+
+<br/><br/>
+
 ## 💻 Develop
 
 ### Languages
@@ -71,15 +80,6 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=TypeScript&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-badge&logo=Sass&logoColor=white)
 ![react-query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-badge&logo=React-Query&logoColor=white)
-
-<br/><br/>
-
-## 🤝 Work with me!
-- Blog: [velog @woohm402](https://velog.io/@woohm402)
-   - [React 가 virtual DOM 을 이용하는 이유](https://velog.io/@woohm402/virtual-dom-and-react)
-   - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
-   - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
-- Contact: [woohm404@gmail.com](mailto://woohm404@gmail.com)
 
 <br/><br/>
 
