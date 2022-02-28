@@ -1,14 +1,14 @@
 ## ✋
 
-I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer.
+I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend developer**.
 
 <br/><br/>
 
 ## ❔ About me
 
-- Studied in [SNU, CSE](https://cse.snu.ac.kr/) (2019~)
-- Working as frontend developer since 2021.03
-- President of [wafflestudio](https://wafflestudio.com) (2021~2022)
+- Studied in [**SNU, CSE**](https://cse.snu.ac.kr/) (2019~)
+- Working as **frontend developer** since 2021.03
+- President of [**wafflestudio**](https://wafflestudio.com) (2021~2022)
    - [homepage](https://wafflestudio.com)
    - [github org](https://github.com/wafflestudio)
 
@@ -17,17 +17,20 @@ I'm Woo Hyunmin. I'm from South Korea 🇰🇷 , working as a frontend developer
 ## :eyes: What I had done
 - Activities
   - 2022.02 ~ current
-    - Project: Waffle.com
+    - Project: **Waffle.com**
+    - New wafflestudio homepage with svelte
+    - Currently developing in progress
     - [web (svelte)](https://github.com/wafflestudio/wafflestudio.com-v3)
   - 2021.08 ~ 2021.11
     - Seminar: frontend with react
-    - [seminar leader](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
+    - [**seminar leader**](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
   - 2021.01 ~ 2021.06
     - Project: Gatgu
     - [client (react native)](https://github.com/wafflestudio/gatgu-client)
   - 2020.11 ~ 2020.12 
     - Clone coding: Trello
     - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
+  - ... and many more activities and details are in my portfolio.
 - See my code!
   - [My NextJS Template](https://github.com/woohm402/woohm402-nextjs-template)
 - Currently interested in:
