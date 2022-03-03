@@ -45,6 +45,7 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
    - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
    - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
    - [내가 react를 좋아하는 이유](https://velog.io/@woohm402/why-do-i-love-react)
+   - [호이스팅](https://velog.io/@woohm402/hoisting)
 - Contact: [woohm404@gmail.com](mailto://woohm404@gmail.com)
 
 <br/><br/>
