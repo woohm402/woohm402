@@ -9,25 +9,25 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 - Studied in [**SNU, CSE**](https://cse.snu.ac.kr/) (2019~)
 - Working as **frontend developer** since 2021.03
 - President of [**wafflestudio**](https://wafflestudio.com) (2021~2022)
-   - [homepage](https://wafflestudio.com)
-   - [github org](https://github.com/wafflestudio)
+  - [homepage](https://wafflestudio.com)
+  - [github org](https://github.com/wafflestudio)
 
 <br/><br/>
 
 ## :eyes: What I had done
+
 - Activities
-  - 2022.02 ~ current
-    - Project: **Waffle.com**
-    - New wafflestudio homepage with svelte
-    - Currently developing in progress
-    - [web (svelte)](https://github.com/wafflestudio/wafflestudio.com-v3)
+  - 2022.09 ~ current
+    - Project: **SNUTT**
+    - Develop snutt frontend projects (webviews, webclients, etc.)
+    - [snutt-ev webview (react)](https://github.com/wafflestudio/snutt-web)
   - 2021.08 ~ 2021.11
     - Seminar: frontend with react
     - [**seminar leader**](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
   - 2021.01 ~ 2021.06
     - Project: Gatgu
     - [client (react native)](https://github.com/wafflestudio/gatgu-client)
-  - 2020.11 ~ 2020.12 
+  - 2020.11 ~ 2020.12
     - Clone coding: Trello
     - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
   - ... and many more activities and details are in my portfolio.
@@ -40,15 +40,16 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 <br/><br/>
 
 ## 🤝 Work with me!
+
 - Blog: [velog @woohm402](https://velog.io/@woohm402)
-   - [React 가 virtual DOM 을 이용하는 이유](https://velog.io/@woohm402/virtual-dom-and-react)
-   - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
-   - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
-   - [내가 react를 좋아하는 이유](https://velog.io/@woohm402/why-do-i-love-react)
-   - [호이스팅](https://velog.io/@woohm402/hoisting)
+  - [React 가 virtual DOM 을 이용하는 이유](https://velog.io/@woohm402/virtual-dom-and-react)
+  - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
+  - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
+  - [내가 react를 좋아하는 이유](https://velog.io/@woohm402/why-do-i-love-react)
+  - [호이스팅](https://velog.io/@woohm402/hoisting)
 - Contact
-   - [email woohm404@gmail.com](mailto://woohm404@gmail.com)
-   - [linkedin @woohm402](https://www.linkedin.com/in/woohm402/)
+  - [email woohm404@gmail.com](mailto://woohm404@gmail.com)
+  - [linkedin @woohm402](https://www.linkedin.com/in/woohm402/)
 
 <br/><br/>
 
@@ -95,4 +96,3 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohm402&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![woohm402's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woohm402)](https://github.com/anuraghazra/github-readme-stats)
-  
