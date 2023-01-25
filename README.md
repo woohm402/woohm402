@@ -20,7 +20,8 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
   - 2022.09 ~ current
     - Project: **SNUTT**
     - Develop snutt frontend projects (webviews, webclients, etc.)
-    - [snutt-ev webview (react)](https://github.com/wafflestudio/snutt-web)
+    - [snutt-ev webview (next.js)](https://github.com/wafflestudio/snutt-web)
+    - [snutt-webclient v2 (react SPA)](https://github.com/wafflestudio/snutt-webclient-v2)
   - 2021.08 ~ 2021.11
     - Seminar: frontend with react
     - [**seminar leader**](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
