@@ -43,6 +43,7 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 ## 🤝 Work with me!
 
 - Blog: [velog @woohm402](https://velog.io/@woohm402)
+  - [Vite 프로젝트에서 리액트 컴포넌트는 어떻게 HMR될까? (소스코드 뜯어보기)](https://velog.io/@woohm402/vite-react-hmr)
   - [React 가 virtual DOM 을 이용하는 이유](https://velog.io/@woohm402/virtual-dom-and-react)
   - [JavaScript 가 이벤트 루프로 동시성을 지원하는 법](https://velog.io/@woohm402/javascript-async-and-event-loop)
   - [클린 코드의 역할](https://velog.io/@woohm402/role-of-clean-code)
