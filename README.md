@@ -20,8 +20,9 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
   - 2022.09 ~ current
     - Project: **SNUTT**
     - Develop snutt frontend projects (webviews, webclients, etc.)
-    - [snutt-ev webview (next.js)](https://github.com/wafflestudio/snutt-web)
+    - [snutt-ev webview (next.js)](https://github.com/wafflestudio/snutt-ev-web)
     - [snutt-webclient v2 (react SPA)](https://github.com/wafflestudio/snutt-webclient-v2)
+    - [snutt-friends (react native)](https://github.com/wafflestudio/snutt-frontend/apps/friends-react-native)
   - 2021.08 ~ 2021.11
     - Seminar: frontend with react
     - [**seminar leader**](https://github.com/wafflestudio/19.5-rookies/tree/master/react)
@@ -32,10 +33,8 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
     - Clone coding: Trello
     - [web (react)](https://github.com/wafflestudio18-5/team5-frontend)
   - ... and many more activities and details are in my portfolio.
-- See my code!
-  - [My NextJS Template](https://github.com/woohm402/woohm402-nextjs-template)
 - Currently interested in:
-  - react `fiber`, `react 18`, `react-query`, `svelte`, `yarn berry`
+  - `turborepo`, `tanstack query`, `vite`, `yarn berry`
   - open-source contributing
 
 <br/><br/>
@@ -86,7 +85,6 @@ I'm Woo Hyunmin. I'm from **South Korea** 🇰🇷 , working as a **frontend dev
 
 ![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-badge&logo=Next.js&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=TypeScript&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-badge&logo=Sass&logoColor=white)
 ![react-query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-badge&logo=React-Query&logoColor=white)
 
 <br/><br/>
